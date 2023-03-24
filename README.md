@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Gorujamo
-  - 👀 I’m interested in  conhecimento
-- 🌱 I’m currently learninge em swift 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Gorujam
+  - 👀 I’m interested in knowloged
+- 🌱 I’m currently learning low code with Microsoft Power Plataform
+- 💞️ I’m looking to collaborate 
+
 
 <!---
 Gorujam/Gorujam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
