@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gorujam
   - 👀 I’m interested in knowloged
-- 🌱 I’m currently learning low code with Microsoft Power Plataform
+- 🌱 I’m currently learning low code and using IA to develope my skills and solve problems 
 - 💞️ I’m looking to collaborate 
 
 
